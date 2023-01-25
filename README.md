@@ -20,3 +20,17 @@
 
 ["Russia", "Denmark", "Kazan"] -> []
 
+# Проект - решение:
+
+1. Создадим новый репозиторий на GitHub, затем создадим новую папку на локальном рабочем месте. В Visual Studio Code в терминале клонируем командой git clone <ссылка из GitHub>. Затем свяжем наш локальный репозиторий с удалённым командами:
+
+git remote add origin <https://github.com/nagovitsin-kgs/ControlWorkChoiceSpecializations.git>
+
+git branch -M main
+
+git push -u origin main
+
+Добавим файл [gitignore](.gitignore).
+
+2. Решим задачу и составим [блок-схему алгоритма](ControlTask01/01diagram.drawio.png) для составления программы (написания кода)
+
