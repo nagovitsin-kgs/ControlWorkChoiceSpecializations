@@ -33,4 +33,6 @@ git push -u origin main
 Добавим файл [gitignore](.gitignore).
 
 2. Решим задачу и составим [блок-схему алгоритма](ControlTask01/01diagram.drawio.png) для составления программы (написания кода).
+3. Создадим в Visual Studio Code файл [README.md](README.md) и опишем все наши действия по нашему проекту.
+4. 
 
